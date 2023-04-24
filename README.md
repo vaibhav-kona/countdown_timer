@@ -1,14 +1,3 @@
-# Vite + React
 
-This is a [Vite](https://vitejs.dev) project together with React.
 
-[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-vite-react/main)
-
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox](https://codesandbox.io/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-- [Vite — GitHub](https://github.com/vitejs/vite)
-- [Vite — Docs](https://vitejs.dev/guide/)
+[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/vaibhav-kona/countdown_timer/main?file=%2FREADME.md&layout=%257B%2522activeFilepath%2522%253A%2522%252FREADME.md%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522fullScreenDevtools%2522%253Afalse%252C%2522rootPanelGroup%2522%253A%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522panelType%2522%253A%2522TABS%2522%252C%2522id%2522%253A%2522clgv52g0i00c12a6d7o2jq8lu%2522%257D%255D%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS_PANELS%2522%252C%2522sizes%2522%253A%255B100%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clgv52g0i00c12a6d7o2jq8lu%2522%253A%257B%2522id%2522%253A%2522clgv52g0i00c12a6d7o2jq8lu%2522%252C%2522activeTabId%2522%253A%2522clgv52i2t00gv2a6dqfxrq8ls%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clgv52g0i00c02a6dcawqf8rv%2522%252C%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%257D%252C%257B%2522type%2522%253A%2522TASK_PORT%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A5173%252C%2522id%2522%253A%2522clgv52i2t00gv2a6dqfxrq8ls%2522%252C%2522path%2522%253A%2522%252F%2522%257D%255D%257D%257D%252C%2522showSidebar%2522%253Atrue%252C%2522showDevtools%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%252C%2522editorPanelSize%2522%253A48.14814814814815%252C%2522devtoolsPanelSize%2522%253A35%257D)
